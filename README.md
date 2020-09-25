@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img src="googleOauth.png" style="max-width: 37%;"/>
 <img src="react_chat_app.png" style="max-width: 39%;" />
-
+<img src="/Ib467/react-chatapp-w-Oauth/raw/master/googleOauth.png" style="max-width: 37%;">
 
 ## Available Scripts
 
