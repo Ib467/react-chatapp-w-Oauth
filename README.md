@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Multiple user login capability
 - Working on fileupload feature
 
-<img src="googleOauth.png" />
-<img src="react_chat_app.png" />
+<img src="googleOauth.png" style="max-width: 37%;"/>
+<img src="react_chat_app.png" style="max-width: 39%;" />
 
 
 ## Available Scripts
