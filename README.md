@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Working on fileupload feature
 
 <img src="googleOauth.png" style="max-width: 37%;"/>
-<img src="react_chat_app.png" style="max-width: 39%;" />
+<img src="react_chat_app.png" style="width: 450px;" />
 <img src="/Ib467/react-chatapp-w-Oauth/raw/master/googleOauth.png" style="max-width: 37%;">
 ![](https://github.com/Ib467/react-chatapp-w-Oauth/blob/master/react_chat_app.png | max-width=37)
 
