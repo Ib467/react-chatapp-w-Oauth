@@ -66,9 +66,11 @@ function SignIn() {
 
 function SignOut() {
   return auth.currentUser && (
-    <button className="sign-out" onClick={() => auth.signOut()}>Sign Out</button>
+    <button className="sign-out" onClick={() => auth.signOut()}><i className="fa fa-sign-out"></i></button>
   )
 }
+
+
 
 
 function ChatRoom() {
@@ -110,7 +112,8 @@ function ChatRoom() {
 
       <input value={formValue} onChange={(e) => setFormValue(e.target.value)} placeholder="say something nice" />
 
-      <button type="submit" disabled={!formValue}>🕊️</button>
+      <button type="submit" disabled={!formValue}><i className="fa fa-paper-plane" aria-hidden="true"></i>
+</button>
 
     </form>
   </>)
