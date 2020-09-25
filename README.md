@@ -1,4 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Simple react chat app using React JS
+- OAuth sign in 
+- Multiple user login capability
+- Working on fileupload feature
+
+
 
 ## Available Scripts
 
